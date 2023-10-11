@@ -2176,7 +2176,7 @@ summary {
   }
 
   .no-webp .notification__btn::after {
-    background: url("../../img/notification/notification__lable-btn-img.png") 0 0/cover no-repeat;
+    background: url("../img/notification/notification__lable-btn-img.png") 0 0/cover no-repeat;
   }
 
   .notification__btn::after {
