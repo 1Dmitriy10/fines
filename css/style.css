@@ -1119,6 +1119,7 @@ summary {
   position: relative;
   min-height: 320px;
   min-width: 434px;
+  overflow: hidden;
 }
 
 .work__item::after {
@@ -1136,6 +1137,7 @@ summary {
 
 .work__item_green {
   background: #3caab6;
+  overflow: hidden;
 }
 
 .work__item_green::after {
