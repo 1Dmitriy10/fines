@@ -5,7 +5,6 @@
   font-weight: 500;
   font-style: normal;
 }
-
 @font-face {
   font-family: Muller;
   font-display: swap;
@@ -232,7 +231,7 @@ body {
   height: 16px;
   left: 30px;
   top: 17px;
-  background: url("../img/header/header__btn-icon.svg") 0 0/cover no-repeat;
+  background: url("../img/header/header__btn-icon.svg") 0 0 / cover no-repeat;
 }
 
 .header__btn:hover {
@@ -266,7 +265,7 @@ summary {
 }
 
 .no-webp .main {
-  background: url("../../img/main/main__bg.png") top right 30%/contain no-repeat;
+  background: url("../../img/main/main__bg.png") top right 30% / contain no-repeat;
 }
 
 .main__container {
@@ -419,7 +418,7 @@ summary {
   left: 22px;
   width: 25px;
   height: 25px;
-  background: url("../img/organizations/organization__arrow-next.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-next.svg") 0 0 / cover no-repeat;
 }
 
 .organizations-button-prev.swiper-button-disabled {
@@ -440,7 +439,7 @@ summary {
   left: 5px;
   width: 55px;
   height: 55px;
-  background: url("../img/organizations/organization__arrow-prev.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-prev.svg") 0 0 / cover no-repeat;
 }
 
 .organizations-button-prev:hover {
@@ -471,7 +470,7 @@ summary {
   left: 22px;
   width: 25px;
   height: 25px;
-  background: url("../img/organizations/organization__arrow-next.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-next.svg") 0 0 / cover no-repeat;
 }
 
 .organizations-button-next:hover {
@@ -499,7 +498,7 @@ summary {
   left: 5px;
   width: 55px;
   height: 55px;
-  background: url("../img/organizations/organization__arrow-prev.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-prev.svg") 0 0 / cover no-repeat;
 }
 
 .organization__nav-btn {
@@ -674,7 +673,7 @@ summary {
 }
 
 .no-webp .notification__lable-btn::after {
-  background: url("../img/notification/notification__lable-btn-img.png") 0 0/cover no-repeat;
+  background: url("../img/notification/notification__lable-btn-img.png") 0 0 / cover no-repeat;
 }
 
 .notification__lable-btn::after {
@@ -707,7 +706,7 @@ summary {
   position: absolute;
   top: 25%;
   right: 30px;
-  background: url("../img/notification/notification__btn-logo.svg") 0 0/cover no-repeat;
+  background: url("../img/notification/notification__btn-logo.svg") 0 0 / cover no-repeat;
 }
 
 .notification__btn-box-description {
@@ -731,7 +730,7 @@ summary {
   left: -5px;
   width: 30px;
   height: 30px;
-  background: url("../img/notification/notification__lable-img.svg") 0 0/cover no-repeat;
+  background: url("../img/notification/notification__lable-img.svg") 0 0 / cover no-repeat;
 }
 
 .notification__text {
@@ -776,7 +775,7 @@ summary {
   left: 0;
   width: 16px;
   height: 16px;
-  background: url("../img/notification/notification__list-item-logo.svg") 0 0/cover no-repeat;
+  background: url("../img/notification/notification__list-item-logo.svg") 0 0 / cover no-repeat;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
@@ -1187,7 +1186,7 @@ summary {
   left: 0;
   width: 16px;
   height: 16px;
-  background: url("../img/work/work__list-item-logo.svg") 0 0/cover no-repeat;
+  background: url("../img/work/work__list-item-logo.svg") 0 0 / cover no-repeat;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
   align-self: center;
@@ -1385,7 +1384,7 @@ summary {
 }
 
 .no-webp .prise__item-item::before {
-  background: url("../img/prices/prise__list-logo.png") 0 0/cover no-repeat;
+  background: url("../img/prices/prise__list-logo.png") 0 0 / cover no-repeat;
 }
 
 .prise__item-item::before {
@@ -1442,7 +1441,7 @@ summary {
   left: 22px;
   width: 25px;
   height: 25px;
-  background: url("../img/organizations/organization__arrow-next.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-next.svg") 0 0 / cover no-repeat;
 }
 
 .prise__slider-button-prev.swiper-button-disabled {
@@ -1463,7 +1462,7 @@ summary {
   left: 5px;
   width: 55px;
   height: 55px;
-  background: url("../img/organizations/organization__arrow-prev.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-prev.svg") 0 0 / cover no-repeat;
 }
 
 .prise__slider-button-prev:hover {
@@ -1496,7 +1495,7 @@ summary {
   left: 22px;
   width: 25px;
   height: 25px;
-  background: url("../img/organizations/organization__arrow-next.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-next.svg") 0 0 / cover no-repeat;
 }
 
 .prise__slider-button-next:hover {
@@ -1524,7 +1523,7 @@ summary {
   left: 5px;
   width: 55px;
   height: 55px;
-  background: url("../img/organizations/organization__arrow-prev.svg") 0 0/cover no-repeat;
+  background: url("../img/organizations/organization__arrow-prev.svg") 0 0 / cover no-repeat;
 }
 
 .prise__ilt-item-box {
@@ -1632,9 +1631,9 @@ summary {
 .calculator__result-box {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[4];
+  -ms-grid-columns: (1fr) [4];
   grid-template-columns: repeat(4, 1fr);
-  -ms-grid-rows: (1fr)[4];
+  -ms-grid-rows: (1fr) [4];
   grid-template-rows: repeat(4, 1fr);
   grid-template-areas: "a zeroTop b v" "g d e j" "z i k l" "m zero n o";
 }
@@ -1750,24 +1749,24 @@ summary {
 }
 
 .webp .main {
-  background: url(../../img/main/main__bg.webp) top right 30%/contain no-repeat;
+  background: url(../../img/main/main__bg.webp) top right 30% / contain no-repeat;
 }
 
 .webp .notification__lable-btn::after {
-  background: url(../img/notification/notification__lable-btn-img.webp) 0 0/cover no-repeat;
+  background: url(../img/notification/notification__lable-btn-img.webp) 0 0 / cover no-repeat;
 }
 
 .webp .prise__item-item::before {
-  background: url(../img/prices/prise__list-logo.webp) 0 0/cover no-repeat;
+  background: url(../img/prices/prise__list-logo.webp) 0 0 / cover no-repeat;
 }
 
 @media (max-width: 1250px) {
   .no-webp .main {
-    background: url("../../img/main/main__bg.png") top right -60px/contain no-repeat;
+    background: url("../../img/main/main__bg.png") top right -60px / contain no-repeat;
   }
 
   .webp .main {
-    background: url(../../img/main/main__bg.webp) top right -60px/contain no-repeat;
+    background: url(../../img/main/main__bg.webp) top right -60px / contain no-repeat;
   }
 }
 
@@ -1891,7 +1890,7 @@ summary {
   .footer__container {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
-    -ms-grid-rows: (1fr)[11];
+    -ms-grid-rows: (1fr) [11];
     grid-template-rows: repeat(11, 1fr);
     grid-template-areas: "a" "g" "b" "d" "." "v" "e" "i" "z" "." "j";
   }
@@ -1988,9 +1987,9 @@ summary {
 
 @media (max-width: 750px) {
   .calculator__result-box {
-    -ms-grid-columns: (1fr)[2];
+    -ms-grid-columns: (1fr) [2];
     grid-template-columns: repeat(2, 1fr);
-    -ms-grid-rows: (1fr)[8];
+    -ms-grid-rows: (1fr) [8];
     grid-template-rows: repeat(8, 1fr);
     grid-template-areas: "a zeroTop" "g z" "d i" "b ." "e k" "v ." "j l" "n o";
   }
@@ -2178,7 +2177,7 @@ summary {
   }
 
   .no-webp .notification__btn::after {
-    background: url("../img/notification/notification__lable-btn-img.png") 0 0/cover no-repeat;
+    background: url("../img/notification/notification__lable-btn-img.png") 0 0 / cover no-repeat;
   }
 
   .notification__btn::after {
@@ -2214,7 +2213,7 @@ summary {
   }
 
   .webp .notification__btn::after {
-    background: url(../../img/notification/notification__lable-btn-img.webp) 0 0/cover no-repeat;
+    background: url(../../img/notification/notification__lable-btn-img.webp) 0 0 / cover no-repeat;
   }
 }
 
